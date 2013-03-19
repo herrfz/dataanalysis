@@ -1,0 +1,26 @@
+<style>
+    div.input {
+        width: 105ex; /* about 80 chars + buffer */
+    }
+    div.output {
+        width: 145ex;
+    }
+    div.text_cell {
+        width: 145ex; /* instead of 100% */
+    }
+    div.text_cell_render {
+        /*font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;*/
+        font-family: "Charis SIL", serif !important; /* Make non-code text serif. */
+        line-height: 145% !important; /* added for some line spacing of text. */
+        width: 105ex !important; /* instead of 'inherit' for shorter lines */
+    }
+    div.text_cell_render h1 {
+        font-size: 18pt;
+    }
+    div.text_cell_render h2 {
+        font-size: 14pt;
+    }
+    .CodeMirror {
+        font-family: Consolas, monospace;
+    }
+</style>
