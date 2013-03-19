@@ -21,7 +21,7 @@ Although I discovered as well that for some cases R is the only way to go, for e
 * splines regression
 * (To Be Completed)
 
-The IPython notebooks are created assuming that they are read/executed while watching or following the course video lectures, so it's very likely that you'll find some parts that don't really make much sense. As of now (March 2013) I haven't put so much effort in explaining what is being done in some steps, or what are the objectives of some code snippets.  I'm still working on writing more explanations, this is still a work in progress, so stay tuned. 
+The IPython notebooks are created assuming that they are read/executed while watching or following the course video lectures. So it's very likely that you'll find some parts that don't really make much sense if you just read them as it is without the videos. As of now (March 2013) I haven't put so much effort in explaining what is being done in some steps, or what are the objectives of some code snippets.  I'm still working on writing more explanations, this is still a work in progress, so stay tuned. 
 
 
 Week 1:
