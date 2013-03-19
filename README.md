@@ -78,5 +78,5 @@ Week 8:
 
 Assignments:
 * <a href="http://nbviewer.ipython.org/urls/raw.github.com/herrfz/dataanalysis/master/assignment1/assignment1_clean.ipynb">Assignment 1</a>
-* <a href="http://nbviewer.ipython.org/urls/raw.github.com/herrfz/dataanalysis/master/samsung_data_prediction_submitted.ipynb">Assignment 2</a>
+* <a href="http://nbviewer.ipython.org/urls/raw.github.com/herrfz/dataanalysis/master/assignment2/samsung_data_prediction_submitted.ipynb">Assignment 2</a>
 
